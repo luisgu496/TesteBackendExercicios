@@ -35,27 +35,24 @@ java -version
 
 ---
 
-# ⚙️ Como Executar
----
-## 1️⃣ Clonar o repositório
-```bash
-git clone https://github.com/luisgu496/TesteBackendExercicios/tree/main/Exercicio1
-cd seu-repositorio
-```
+## ⚙️ Como Executar
+
+### 1️⃣ Executar no Kotlin Playground (mais fácil)
+1. Acesse [https://play.kotlinlang.org/](https://play.kotlinlang.org/).
+2. Cole o conteúdo do arquivo `Votacao.kt`.
+3. Clique em **Run**.
 
 ---
 
-## 2️⃣ Compilar o programa
-```bash
-kotlinc Votacao.kt -include-runtime -d Votacao.jar
-```
+### 2️⃣ Executar no VSCode
+1. Instale a extensão **Kotlin** no VSCode.
+2. Crie um arquivo chamado `Votacao.kt` e cole o código.
+3. Compile e execute no terminal:
+   ```bash
+   kotlinc Votacao.kt -include-runtime -d Votacao.jar
+   java -jar Votacao.jar
 
 ---
-
-## 3️⃣ Executar
-```bash
-java -jar Votacao.jar
-```
 
 ---
 
