@@ -1,6 +1,6 @@
 # 📐Algoritmo de Ordenação BubbleSort em Kotlin
 
-Este projeto implementa o algoritmo de ordenação **BubbleSort** em **Kotlin**, ordenando o vetor `{5, 3, 2, 4, 7, 1, 0, 6}` em **ordem crescente** e exibindo o processo passo a passo,
+Este projeto implementa o algoritmo de ordenação **BubbleSort** em **Kotlin**, ordenando o vetor `{5, 3, 2, 4, 7, 1, 0, 6}` em **ordem crescente** e exibindo o processo passo a passo, atendendo ao Exercício 2 do Teste de Backend da Tiennova.
 ## 📋 Descrição do Algoritmo
 
 O **BubbleSort** é um algoritmo de ordenação simples que funciona comparando elementos adjacentes (pares consecutivos) e trocando-os de posição se estiverem fora de ordem.  
