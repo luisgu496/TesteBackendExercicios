@@ -50,6 +50,7 @@ O projeto é composto por um único arquivo: BubbleSort.kt
    ```bash
    java -jar BubbleSort.jar
    ```
+---
 
 ## 📌 Exemplo de saída no console
 
@@ -68,7 +69,13 @@ Iteração 2:
 Vetor final ordenado:  
 [0, 1, 2, 3, 4, 5, 6, 7]  
 
+---
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT 
 
+---
+
+## ✍ Autor
+Desenvolvido por Luis Gustavo Ferreira Leite  🚀
