@@ -1,4 +1,4 @@
-# 📐 Calculadora de Fatorial em Kotlin
+# 💻 Calculadora de Fatorial em Kotlin
 
 Este é um simples programa desenvolvido em **Kotlin** que calcula o **fatorial** de um número natural (inteiro não negativo), atendendo aos requisitos clássicos do problema matemático.  
 
@@ -19,7 +19,7 @@ Por definição, temos:
 - Retorna resultados corretos para valores conhecidos.
 - Exibe mensagens de erro para entradas inválidas.
 
-## 🖥️ Exemplo de Uso
+## 📌 Exemplo de Uso
 
 Ao rodar o programa:
 
