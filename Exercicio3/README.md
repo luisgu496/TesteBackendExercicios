@@ -48,23 +48,24 @@ Digite um número inteiro não negativo para calcular o fatorial:
 
 ---
 
-# ⚙️ Como Executar
+## ⚙️ Como Executar
 
-## 1️⃣ Clonar o repositório
-```bash
-git clone https://github.com/luisgu496/TesteBackendExercicios/tree/main/Exercicio3
-cd FatorialKotlin
-```
+### 1️⃣ Executar no Kotlin Playground (mais fácil)
+1. Acesse [https://play.kotlinlang.org/](https://play.kotlinlang.org/).
+2. Cole o conteúdo do arquivo `Main.kt`.
+3. Clique em **Run**.
+4. Digite o valor de **X** quando solicitado.
 
-## 2️⃣ Compilar o programa
-```bash
-kotlinc Main.kt -include-runtime -d Fatorial.jar
-```
+---
 
-## 3️⃣ Executar
-```bash
-java -jar Fatorial.jar
-```
+### 2️⃣ Executar no VSCode
+1. Instale a extensão **Kotlin** no VSCode.
+2. Crie um arquivo chamado `Main.kt` e cole o código.
+3. Compile e execute no terminal:
+   ```bash
+   kotlinc Main.kt -include-runtime -d programa.jar
+   java -jar programa.jar
+
 ---
 
 ## 📜 Licença
