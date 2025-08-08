@@ -56,4 +56,5 @@ Percentual de votos nulos: 5.0%
 # 📜 Licença
 Este projeto está licenciado sob a MIT License.
 
-
+## ✍ Autor
+Desenvolvido por Luis Gustavo Ferreira Leite  🚀
