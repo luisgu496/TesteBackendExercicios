@@ -54,7 +54,6 @@ Digite um número inteiro não negativo para calcular o fatorial:
 1. Acesse [https://play.kotlinlang.org/](https://play.kotlinlang.org/).
 2. Cole o conteúdo do arquivo `Main.kt`.
 3. Clique em **Run**.
-4. Digite o valor de **X** quando solicitado.
 
 ---
 
@@ -63,8 +62,8 @@ Digite um número inteiro não negativo para calcular o fatorial:
 2. Crie um arquivo chamado `Main.kt` e cole o código.
 3. Compile e execute no terminal:
    ```bash
-   kotlinc Main.kt -include-runtime -d programa.jar
-   java -jar programa.jar
+   kotlinc Main.kt -include-runtime -d Fatorial.jar
+   java -jar Fatorial.jar
 
 ---
 
