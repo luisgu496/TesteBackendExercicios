@@ -1,4 +1,4 @@
-# Soma dos Múltiplos de 3 ou 5
+# 💻 Soma dos Múltiplos de 3 ou 5
 
 ## 📌 Descrição
 Este projeto é uma implementação em **Kotlin** para calcular a soma de todos os números naturais menores que um valor **X** informado, que sejam múltiplos de **3** ou **5**.
