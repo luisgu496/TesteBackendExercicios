@@ -1,4 +1,4 @@
-# 📊 Cálculo de Percentuais de Votação em Kotlin
+# 💻 Cálculo de Percentuais de Votação em Kotlin
 
 Este projeto implementa um programa simples em **Kotlin** para calcular os percentuais de votos **válidos**, **brancos** e **nulos** em relação ao total de eleitores, atendendo ao Exercício 1 do Teste de Backend da Tiennova.
 
@@ -27,7 +27,7 @@ java -version
 ├── Votacao.kt    # Código-fonte principal do programa                                                                                                                                                
         └── README.md     # Documentação do projeto
 
-# 💻 Como Executar
+# ⚙️ Como Executar
 
 ## 1️⃣ Clonar o repositório
 ```bash
