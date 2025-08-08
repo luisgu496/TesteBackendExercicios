@@ -20,8 +20,8 @@ No caso deste projeto:
 
 ## 📂 Estrutura do Projeto
 
-O projeto é composto por um único arquivo: BubbleSort.kt
-
+├── BubbleSort.kt    # Código-fonte principal do programa                                                                                                                                                
+        └── README.md     # Documentação do projeto
 
 ---
 
