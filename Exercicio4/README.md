@@ -1,6 +1,5 @@
 # 💻 Soma dos Múltiplos de 3 ou 5
 
-## 📌 Descrição
 Este projeto é uma implementação em **Kotlin** para calcular a soma de todos os números naturais menores que um valor **X** informado, que sejam múltiplos de **3** ou **5**.
 
 Por exemplo, para **X = 10**, os múltiplos encontrados são `3, 5, 6 e 9`, cuja soma é **23**.
@@ -28,13 +27,14 @@ O programa foi desenvolvido de forma simples e clara, para fins de aprendizado e
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **Kotlin** (linguagem principal)
-- **Kotlin Standard Library** (nenhuma biblioteca externa necessária)
+## 📋 Requisitos
+
+- [Kotlin](https://kotlinlang.org/) instalado no seu sistema.
+- Java JDK 8+ instalado.
 
 ---
 
-## 📥 Como Executar
+## ⚙️ Como Executar
 
 ### 1️⃣ Executar no Kotlin Playground (mais fácil)
 1. Acesse [https://play.kotlinlang.org/](https://play.kotlinlang.org/).
@@ -52,7 +52,7 @@ O programa foi desenvolvido de forma simples e clara, para fins de aprendizado e
    kotlinc Main.kt -include-runtime -d programa.jar
    java -jar programa.jar
 
-## 🧮 Exemplo de Uso
+## 📌 Exemplo de Uso
 
 Digite um número X: 10  
 
