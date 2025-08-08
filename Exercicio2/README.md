@@ -68,7 +68,7 @@ Iteração 2:
 Vetor final ordenado:  
 [0, 1, 2, 3, 4, 5, 6, 7]  
 
-## 📖 Licença
+## 📜 Licença
 
 Este projeto está licenciado sob a licença MIT 
 
