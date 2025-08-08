@@ -52,7 +52,7 @@ Digite um número inteiro não negativo para calcular o fatorial:
 
 ## 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/FatorialKotlin.git
+git clone https://github.com/luisgu496/TesteBackendExercicios/tree/main/Exercicio3
 cd FatorialKotlin
 ```
 
