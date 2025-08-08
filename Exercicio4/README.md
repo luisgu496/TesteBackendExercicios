@@ -22,6 +22,8 @@ O programa foi desenvolvido de forma simples e clara, para fins de aprendizado e
 
 ## 📂 Estrutura do Projeto
 
+├── Main.kt    # Código-fonte principal do programa                                                                                                                                                
+        └── README.md     # Documentação do projeto
 
 
 ---
