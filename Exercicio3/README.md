@@ -12,12 +12,16 @@ Por definição, temos:
 - `0! = 1`
 - `1! = 1`
 
+---
+
 ## 🚀 Funcionalidades
 
 - Calcula o fatorial de **qualquer número natural** informado pelo usuário.
 - Trata os casos especiais `0!` e `1!`.
 - Retorna resultados corretos para valores conhecidos.
 - Exibe mensagens de erro para entradas inválidas.
+
+---
 
 ## 📌 Exemplo de Uso
 
@@ -27,17 +31,22 @@ Digite um número inteiro não negativo para calcular o fatorial:
 5  
 5! = 120
 
+---
 
 ## 📋 Requisitos
 
 - [Kotlin](https://kotlinlang.org/) instalado no seu sistema.
 - Java JDK 8+ instalado.
 
+---
+
 ## 📂 Estrutura do Projeto
 
 
 ├── Main.kt    # Código-fonte principal do programa                                                                                                                                                
         └── README.md     # Documentação do projeto
+
+---
 
 # ⚙️ Como Executar
 
@@ -56,6 +65,7 @@ kotlinc Main.kt -include-runtime -d Fatorial.jar
 ```bash
 java -jar Fatorial.jar
 ```
+---
 
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT
