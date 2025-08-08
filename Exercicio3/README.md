@@ -35,5 +35,27 @@ Digite um número inteiro não negativo para calcular o fatorial:
 
 ## 📂 Estrutura do Projeto
 
-└── Main.kt
 
+├── Main.kt    # Código-fonte principal do programa                                                                                                                                                
+        └── README.md     # Documentação do projeto
+
+# ⚙️ Como Executar
+
+## 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/seu-usuario/FatorialKotlin.git
+cd FatorialKotlin
+```
+
+## 2️⃣ Compilar o programa
+```bash
+kotlinc Main.kt -include-runtime -d Fatorial.jar
+```
+
+## 3️⃣ Executar
+```bash
+java -jar Fatorial.jar
+```
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT
