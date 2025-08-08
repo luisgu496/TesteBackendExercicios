@@ -52,14 +52,20 @@ O programa foi desenvolvido de forma simples e clara, para fins de aprendizado e
    kotlinc Main.kt -include-runtime -d programa.jar
    java -jar programa.jar
 
+---
+
 ## 📌 Exemplo de Uso
 
 Digite um número X: 10  
 
 A soma dos múltiplos de 3 ou 5 abaixo de 10 é: 23
 
+---
+
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT
 
+---
+
 ## ✍ Autor
-Luis Gustavo
+Desenvolvido por Luis Gustavo Ferreira Leite  🚀
