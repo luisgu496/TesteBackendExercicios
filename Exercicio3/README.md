@@ -70,5 +70,7 @@ java -jar Fatorial.jar
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT
 
+---
+
 ## ✍ Autor
 Desenvolvido por Luis Gustavo Ferreira Leite  🚀
