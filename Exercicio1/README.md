@@ -2,6 +2,8 @@
 
 Este projeto implementa um programa simples em **Kotlin** para calcular os percentuais de votos **válidos**, **brancos** e **nulos** em relação ao total de eleitores, atendendo ao Exercício 1 do Teste de Backend da Tiennova.
 
+---
+
 ## 🚀 Funcionalidades
 
 - Cálculo do percentual de votos **válidos**.
@@ -9,6 +11,8 @@ Este projeto implementa um programa simples em **Kotlin** para calcular os perce
 - Cálculo do percentual de votos **nulos**.
 - Implementação com **Programação Orientada a Objetos**.
 - Código simples e fácil de entender para iniciantes em Kotlin.
+
+---
 
 ## 📋 Requisitos
 
@@ -21,29 +25,39 @@ kotlinc -version
 java -version
 ```
 
+---
+
 # 📂 Estrutura do Projeto
 
 
 ├── Votacao.kt    # Código-fonte principal do programa                                                                                                                                                
         └── README.md     # Documentação do projeto
 
-# ⚙️ Como Executar
+---
 
+# ⚙️ Como Executar
+---
 ## 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
+---
+
 ## 2️⃣ Compilar o programa
 ```bash
 kotlinc Votacao.kt -include-runtime -d Votacao.jar
 ```
 
+---
+
 ## 3️⃣ Executar
 ```bash
 java -jar Votacao.jar
 ```
+
+---
 
 # 📊 Exemplo de Saída
 
@@ -53,8 +67,12 @@ Percentual de votos brancos: 15.0%
 Percentual de votos nulos: 5.0%
 ```
 
+---
+
 # 📜 Licença
 Este projeto está licenciado sob a MIT License.
+
+---
 
 ## ✍ Autor
 Desenvolvido por Luis Gustavo Ferreira Leite  🚀
