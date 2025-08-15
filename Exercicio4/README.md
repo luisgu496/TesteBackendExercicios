@@ -4,7 +4,6 @@ Este projeto é uma implementação em **Kotlin** para calcular a soma de todos 
 
 Por exemplo, para **X = 10**, os múltiplos encontrados são `3, 5, 6 e 9`, cuja soma é **23**.
 
-O programa foi desenvolvido de forma simples e clara, para fins de aprendizado e como solução de um teste técnico.
 
 ---
 
